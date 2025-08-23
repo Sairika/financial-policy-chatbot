@@ -20,7 +20,7 @@ This project implements a chatbot system that can answer questions about financi
 financial-policy-chatbot/
 ├── README.md
 ├── requirements.txt
-├── Financial_Rag_Based_Project.ipynb    # Main implementation notebook
+├── financial_policy_chatbot.ipynb   # Main implementation notebook
 ├── Policy-file.pdf                  # Financial policy document
 └── database/                            # Vector database storage
 ```
@@ -62,7 +62,7 @@ The system uses:
 
 2. **Open the notebook**:
    ```bash
-   jupyter notebook Financial_Rag_Based_Project.ipynb
+   jupyter notebook financial_policy_chatbot.ipynb
    ```
 
 3. **Run the cells sequentially**:
