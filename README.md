@@ -120,6 +120,3 @@ Based on the Policy-file.pdf content:
 - 8GB+ RAM recommended
 - GPU with 8GB+ VRAM (for Llama model)
 - CUDA support recommended for optimal performance
-
-
-For questions about this implementation, please contact: hasanmahmudnayeem3027@gmail.com
